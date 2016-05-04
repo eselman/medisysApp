@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Medisys</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_txt">BIENVENIDOS A MEDISYS</string>
+    <string name="username_txt">Usuario: </string>
+    <string name="psw_txt">Clave: </string>
+    <string name="username_hint_txt">Nombre de Usuario</string>
+    <string name="psw_hint_txt">Clave</string>
+    <string name="login_btn_txt">Entrar </string>
+</resources>
